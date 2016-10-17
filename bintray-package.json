@@ -1,0 +1,10 @@
+{
+    "name": "RackHD",
+    "desc": "RackHD Debian",
+    "desc_url": "https://github.com/RackHD/RackHD/blob/master/README.md",
+    "vcs_url": "https://github.com/bintray/bintray-client-java.git",
+    "labels": ["RackHD"],
+    "version", ["1.2.5"],
+    "public_stats": true,
+    "licenses": ["Apache-2.0"]
+}
