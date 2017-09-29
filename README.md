@@ -118,3 +118,12 @@ It includes below 6 main stages:
    - npm packges -> [npm registry](https://www.npmjs.com/~rackhd)
    - vagrant box -> [atlas](https://app.vagrantup.com/rackhd/boxes/rackhd)
    - docker images -> [docker hub](https://hub.docker.com/u/rackhd/)
+   
+   
+## Licensing
+
+Licensed under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+RackHD is a Trademark of Dell EMC
